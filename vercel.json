@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "pages/api/generateCurriculaPlan.js": {
+      "maxDuration": 300
+    }
+  }
+}
